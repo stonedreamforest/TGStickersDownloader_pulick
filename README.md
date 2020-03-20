@@ -29,4 +29,4 @@
 ##### 传送门
 [历史版本](https://github.com/stonedreamforest/TGStickersDownloader_pulick/releases)
 
-[v20200321](https://github.com/stonedreamforest/TGStickersDownloader_pulick/releases/tag/v20200321)
+[最新版本：v20200321](https://github.com/stonedreamforest/TGStickersDownloader_pulick/releases/tag/v20200321)
