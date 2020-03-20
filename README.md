@@ -3,3 +3,18 @@
 [![HitCount](http://hits.dwyl.io/stonedreamforest/TGStickersDownloader_pulick.svg)](http://hits.dwyl.io/stonedreamforest/TGStickersDownloader_pulick)
 
 # TGStickersDownloader_pulick
+
+
+
+
+
+
+
+
+
+
+
+##### 传送门
+[历史版本](https://github.com/stonedreamforest/TGStickersDownloader_pulick/releases)
+
+[v20200321](https://github.com/stonedreamforest/TGStickersDownloader_pulick/releases/tag/v20200321)
