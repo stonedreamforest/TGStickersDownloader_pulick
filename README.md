@@ -10,8 +10,13 @@
 ##### 使用
 1. 启动tg
 2. 点击run.bat
+
+![image](https://user-images.githubusercontent.com/16742566/77187730-e4786b80-6b0f-11ea-9ea2-b2901b1f0728.png)
+
+
 3. 在聊天窗口打开你的想要下载的表情
 
+![image](https://user-images.githubusercontent.com/16742566/77187109-ebeb4500-6b0e-11ea-9bde-0e9b9d5f0362.png)
 
 4. 使用鼠标左右滑动 等待下载完成
 
