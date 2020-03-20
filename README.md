@@ -18,7 +18,7 @@
 
 ![image](https://user-images.githubusercontent.com/16742566/77187109-ebeb4500-6b0e-11ea-9bde-0e9b9d5f0362.png)
 
-4. 使用鼠标左右滑动 等待下载完成
+4. 使用鼠标在上面左右滑动 等待下载完成
 
 
 #### 截图
