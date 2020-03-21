@@ -24,6 +24,21 @@
 
 ![image](https://user-images.githubusercontent.com/16742566/77187446-759b1280-6b0f-11ea-9cc6-bb628c3a8a7f.png)
 
+#### 比较
+- 速度 
+  - bot
+  
+  ![image](https://user-images.githubusercontent.com/16742566/77227850-003a4b00-6bbe-11ea-9db9-5364ed95f932.png)
+  
+  - TGSD
+  > 几秒钟 还可以更快
+- 隐私
+  - bot
+  > 上传到云端再下发
+  
+  - TGSD
+  > 本地缓存若无向TG官方请求下载
+
 
 ##### 传送门
 [所有版本](https://github.com/stonedreamforest/TGStickersDownloader_pulick/releases)
