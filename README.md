@@ -1,4 +1,5 @@
 
+![TGStickersDownloader](https://user-images.githubusercontent.com/16742566/77221520-39a29480-6b85-11ea-9950-c2ed36d30b08.png)
 
 # TGStickersDownloader_pulick
 > download the sticker packs
