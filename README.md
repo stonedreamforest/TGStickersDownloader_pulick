@@ -1,7 +1,7 @@
 
 
 # TGStickersDownloader_pulick
-
+> download the sticker packs
 
 
 
@@ -19,7 +19,7 @@
 4. 使用鼠标在上面左右滑动 等待下载完成
 
 
-#### 截图
+#### 效果
 
 ![image](https://user-images.githubusercontent.com/16742566/77187446-759b1280-6b0f-11ea-9cc6-bb628c3a8a7f.png)
 
