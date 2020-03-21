@@ -28,7 +28,7 @@
 - 速度 
   - bot
   
-  ![image](https://user-images.githubusercontent.com/16742566/77227850-003a4b00-6bbe-11ea-9db9-5364ed95f932.png)
+  ![image](https://user-images.githubusercontent.com/16742566/77227984-1c8ab780-6bbf-11ea-856c-da6967909e95.png)
   
   - TGSD
   > 几秒钟 还可以更快
