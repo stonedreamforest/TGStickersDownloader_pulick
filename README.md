@@ -31,14 +31,20 @@
   ![image](https://user-images.githubusercontent.com/16742566/77227984-1c8ab780-6bbf-11ea-856c-da6967909e95.png)
   
   - TGSD
-  > 几秒钟 还可以更快
+  > 0-5秒 
 - 隐私
   - bot
-  > 上传到云端再下发
+  > 表情包上传到机器人云端再下发
   
   - TGSD
-  > 本地加密缓存若无向TG官方请求下载
+  > 获取本地加密缓存若无向TG官方请求下载
 
+- 便捷
+  - bot
+  > 需要发送分享链接等待bot打包再下发然后下载再解压
+  
+  - TGSD
+  > 直接保存在`我的文档\\TGStickers`目录下
 
 ##### 传送门
 [所有版本](https://github.com/stonedreamforest/TGStickersDownloader_pulick/releases)
