@@ -20,9 +20,12 @@
 4. 使用鼠标在上面左右滑动 等待下载完成
 
 
+
 #### 效果
 
 ![image](https://user-images.githubusercontent.com/16742566/77187446-759b1280-6b0f-11ea-9cc6-bb628c3a8a7f.png)
+
+
 
 #### 比较
 - 速度 
@@ -46,7 +49,15 @@
   - TGSD
   > 直接保存在`我的文档\\TGStickers`目录下
 
-##### 传送门
+
+#### 传送门
 [所有版本](https://github.com/stonedreamforest/TGStickersDownloader_pulick/releases)
 
 [最新版本：v20200331](https://github.com/stonedreamforest/TGStickersDownloader_pulick/releases/tag/v20200331)
+
+
+#### 更改日志
+[CHANGELOG](https://github.com/stonedreamforest/TGStickersDownloader_pulick/blob/master/CHANGELOG.MD)
+
+
+
