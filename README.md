@@ -31,7 +31,7 @@
   ![image](https://user-images.githubusercontent.com/16742566/77227984-1c8ab780-6bbf-11ea-856c-da6967909e95.png)
   
   - TGSD
-  > 0-5秒 
+  > 非常快 
 - 隐私
   - bot
   > 表情包上传到机器人云端再下发
@@ -49,4 +49,4 @@
 ##### 传送门
 [所有版本](https://github.com/stonedreamforest/TGStickersDownloader_pulick/releases)
 
-[最新版本：v20200321](https://github.com/stonedreamforest/TGStickersDownloader_pulick/releases/tag/v20200321)
+[最新版本：v20200331](https://github.com/stonedreamforest/TGStickersDownloader_pulick/releases/tag/v20200331)
