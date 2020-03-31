@@ -23,8 +23,7 @@
 
 #### 效果
 
-![image](https://user-images.githubusercontent.com/16742566/77187446-759b1280-6b0f-11ea-9cc6-bb628c3a8a7f.png)
-
+![image](https://user-images.githubusercontent.com/16742566/77995945-467e6f80-735f-11ea-9db8-089d7bb9c550.png)
 
 
 #### 比较
