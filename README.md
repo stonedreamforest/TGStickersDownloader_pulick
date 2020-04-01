@@ -52,7 +52,7 @@
 #### 传送门
 [所有版本](https://github.com/stonedreamforest/TGStickersDownloader_pulick/releases)
 
-[最新版本：v20200331](https://github.com/stonedreamforest/TGStickersDownloader_pulick/releases/tag/v20200331)
+[最新版本：v20200401](https://github.com/stonedreamforest/TGStickersDownloader_pulick/releases/tag/v20200401)
 
 
 #### 更改日志
